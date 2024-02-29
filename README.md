@@ -1,4 +1,4 @@
-# demo
+# first repo
 
-some description!
+these are my first beginner projects !
 first commit
